@@ -1,1 +1,1 @@
-test sur le cloud IBM
+Sample application packaged as a container
